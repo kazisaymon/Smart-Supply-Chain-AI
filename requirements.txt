@@ -1,47 +1,12 @@
-# FastAPI এবং Uvicorn
 fastapi
 uvicorn
 python-dotenv
-
-# Streamlit Frontend
 streamlit
 streamlit-option-menu
-
-# CrewAI এবং LLM Integration
 crewai
-crewai-tools
 langchain
-langchain-community
-langchain-openai
-langchain-anthropic
-
-# LLM Providers
-anthropic
 openai
-
-# ডেটাবেস
-sqlalchemy
-
-# ডেটা প্রসেসিং
-pandas
-numpy
-
-# HTTP এবং API
-requests
-httpx
-
-# Email সেন্ডিং
-python-multipart
-aiosmtplib
-
-# ইউটিলিটি
 pydantic
 pydantic-settings
-
-# Async সাপোর্ট
-aiohttp
-
-# ডেভেলপমেন্ট
-black
-flake8
-pytest
+requests
+httpx
