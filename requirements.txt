@@ -1,49 +1,47 @@
 # FastAPI এবং Uvicorn
-fastapi==0.104.1
-uvicorn==0.24.0
-python-dotenv==1.0.0
+fastapi
+uvicorn
+python-dotenv
 
 # Streamlit Frontend
-streamlit==1.28.1
-streamlit-option-menu==0.3.6
+streamlit
+streamlit-option-menu
 
 # CrewAI এবং LLM Integration
-crewai==0.21.0
-crewai-tools==0.2.0
-langchain==0.1.0
-langchain-community==0.0.10
-langchain-openai==0.0.8
-langchain-anthropic==0.1.0
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
 
 # LLM Providers
-anthropic==0.7.0
-openai==1.3.0
+anthropic
+openai
 
 # ডেটাবেস
-sqlalchemy==2.0.23
-sqlite3
+sqlalchemy
 
 # ডেটা প্রসেসিং
-pandas==2.1.3
-numpy==1.26.2
+pandas
+numpy
 
 # HTTP এবং API
-requests==2.31.0
-httpx==0.25.1
+requests
+httpx
 
 # Email সেন্ডিং
-python-multipart==0.0.6
-aiosmtplib==3.0.0
+python-multipart
+aiosmtplib
 
 # ইউটিলিটি
-pydantic==2.5.0
-pydantic-settings==2.1.0
+pydantic
+pydantic-settings
 
 # Async সাপোর্ট
-asyncio==3.4.3
-aiohttp==3.9.1
+aiohttp
 
 # ডেভেলপমেন্ট
-black==23.12.0
-flake8==6.1.0
-pytest==7.4.3
+black
+flake8
+pytest
